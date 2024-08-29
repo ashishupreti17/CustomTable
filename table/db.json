@@ -1,0 +1,10 @@
+{
+  "initialData": [
+    { "id": 1, "dropdownValue": "", "column1": "Initial 1-1", "column2": "Initial 1-2", "column3": "Initial 1-3" },
+    { "id": 2, "dropdownValue": "", "column1": "Initial 2-1", "column2": "Initial 2-2", "column3": "Initial 2-3" }
+  ],
+  "details": [
+    { "id": "value1", "column1": "Updated 1-1", "column2": "Updated 1-2", "column3": "Updated 1-3" },
+    { "id": "value2", "column1": "Updated 2-1", "column2": "Updated 2-2", "column3": "Updated 2-3" }
+  ]
+}
